@@ -1,3 +1,4 @@
+//checking if the student is accepted or rejected
 #include <iostream>
 using namespace std;
 int main()
