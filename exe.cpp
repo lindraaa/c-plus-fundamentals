@@ -7,10 +7,6 @@ int main()
   cin >> price;
   cout <<" Enter the tax rate:"<<endl;
   cin >> taxrate;
-  
-  
-  
-	
 
 return 0;
 }
