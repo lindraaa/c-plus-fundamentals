@@ -26,8 +26,5 @@ int main()
 		cin >> number; 
 	  }
 
-	
-	
-	
 	return 0;
 }
