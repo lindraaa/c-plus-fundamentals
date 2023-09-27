@@ -19,7 +19,7 @@ int main()
 	 gross = gross + (hours - 40) * rate / 2;
 	 cout << "\nYour gross pay with overtime is :" << gross;
     }
- 	else                 //False path//
+ 	else                 //False path/
 	cout <<"\nThank you";
 	cout <<"\nBye";
 	 	
