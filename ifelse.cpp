@@ -14,7 +14,7 @@ int main()
 	gross = hours * rate;
 	
 	
-	if(hours <= 40)           // true path//
+	if(hours <= 40)           // true path/
     gross = hours * rate;
  
  	else  	              
