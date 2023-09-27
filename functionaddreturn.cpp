@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-//You can create a user/ programmmer defined function before the main() function
+//You can create a user/ programmmer defined function before the main() 
 //function declaration
   
 float add(float, float);
