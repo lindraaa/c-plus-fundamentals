@@ -17,7 +17,7 @@ int main()
 	   cout <<"The salesperson's commission is: " <<commission;
 	   cout << endl << endl;
 	   cout <<"Enter the another sales[0 to exit]: ";  // update read
-	   cin >> sales; // sentinetl value for the update read
+	   cin >> sales; // sentinet value for the update read
 	}
 	
 	cout <<"\nHAVE A NICE DAY ^__^";
