@@ -43,6 +43,7 @@ int main()
 			case 3:
 				product = first * second;
 				cout <<"The product of " << first <<" and " << second <<" is " << product << endl;
+				
 				break;
 				
 			default:
