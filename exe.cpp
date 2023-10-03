@@ -9,4 +9,5 @@ int main()
   cin >> taxrate;
 
 return 0;
+  
 }
