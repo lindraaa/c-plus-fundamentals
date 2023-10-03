@@ -22,7 +22,8 @@ int main()
     
     cout<<"\nThe product of 4th and 5th number : ";
     cout << productoftwonumbers;
-    
+
+	
     cout <<"\nThe average is : ";
     cout << averagenumber;
     return 0;	
