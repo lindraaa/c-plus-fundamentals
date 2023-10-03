@@ -22,4 +22,5 @@ int main()
 	
 	cout <<"\nHAVE A NICE DAY ^__^";
 	return 0;
+
 }
