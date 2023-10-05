@@ -32,6 +32,7 @@ int main()
 		cout<<"\nReject";	
     }
 	
-	 
+
+	
 	return 0;	
 }
