@@ -8,6 +8,7 @@ int main(){
 	cin >> num; // taking input from the system's input device (keyboard) extraction operator (>>)
 	
 	cout << "The number:" <<num;	
-return 0;	
+return 0;
+	
 
 }
