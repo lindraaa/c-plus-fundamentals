@@ -54,7 +54,8 @@ int main()
  		 cout <<"\nAgain? [Y/N]: ";
  		 cin >> choice;
  		 cout <<endl;
-	}while(toupper(choice) == 'Y');
+	}
+		while(toupper(choice) == 'Y');
 	
 		return 0;
 }
