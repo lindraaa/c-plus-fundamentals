@@ -27,5 +27,6 @@ int main()
     cout <<"\nThe average is : ";
     cout << averagenumber;
     return 0;	
+
 	
 }
