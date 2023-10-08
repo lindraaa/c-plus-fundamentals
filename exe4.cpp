@@ -32,6 +32,7 @@ int main()
   
   totalexam = prelim + midterm + finals;
   totalquiz = quiz1 + quiz2 + quiz3;
+	
 
 	
   averageexam = totalexam/3;
