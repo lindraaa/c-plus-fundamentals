@@ -11,6 +11,9 @@ int main(){
 	
 	cout << "Characters:" << a << endl;
 	cout << "Number:" <<num;	
+
+	
+	
 return 0;	
 
 	
