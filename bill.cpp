@@ -26,6 +26,7 @@ int main()
 	totalamount = ttypedenvelopes + ttypedpages;
 	cout <<"The total amount due is: $";
 	cout << totalamount;
+
 	
 	
 	return 0;
