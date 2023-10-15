@@ -23,7 +23,8 @@ int main()
 	   {
 	   
 	    cout<<"\nMissed it";
-       }
+       
+	   }
 
 	
     return 0;	
