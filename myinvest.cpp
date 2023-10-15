@@ -22,6 +22,7 @@ int main()
 	  
 		cout << "Error";
 
+		  
 		cout <<"\nInput the number again: ";
 		cin >> number; 
 	  }
