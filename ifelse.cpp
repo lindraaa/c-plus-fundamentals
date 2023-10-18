@@ -25,7 +25,5 @@ int main()
 	 	
 	cout << "\nThe gross pay for the employee is :" << gross ;
 	
-	
-	
 	return 0;
 }
