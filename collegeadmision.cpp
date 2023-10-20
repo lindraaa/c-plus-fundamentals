@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-	
 	float gaverage, atestscore;
 	
 	cout <<"Enter the general point average: ";
