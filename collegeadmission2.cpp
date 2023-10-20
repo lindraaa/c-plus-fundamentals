@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	float gaverage, atestscore;
-	
 	cout <<"Enter the grade point average: ";
 	cin >> gaverage;
 	cout <<"Enter the admission test score: ";
