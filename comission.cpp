@@ -1,6 +1,4 @@
-
-
-	//sentinel.cpp
+//sentinel.cpp
 #include<iostream>
 using namespace std;
 int main()
