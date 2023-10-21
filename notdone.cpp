@@ -14,9 +14,6 @@ int main() //the name of the function is main
 	
 	cout <<"Running the add() function 5x using a while loop\n";
 	while(x > 0)
-	
-	
-
 		
 	return 0;
 
