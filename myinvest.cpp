@@ -26,8 +26,6 @@ int main()
 		cout <<"\nInput the number again: ";
 		cin >> number; 
 	  }
-
-	
 	return 0;
 	
 }
