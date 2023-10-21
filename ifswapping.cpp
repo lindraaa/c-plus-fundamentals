@@ -16,8 +16,8 @@ int main()
      first = second;
      second = temp;
   }
-  cout <<"\nThe smaller no. is " << second; 
-  cout <<"\nAnd the larger no. is " << first;
+	  cout <<"\nThe smaller no. is " << second; 
+	  cout <<"\nAnd the larger no. is " << first;
 
 	
 	return 0;
