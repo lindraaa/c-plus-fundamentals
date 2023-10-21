@@ -6,6 +6,7 @@ using namespace std;
 //function declaration
   
 float add(float, float);
+
 //main function    
 int main() //The name of its function is main
 {
