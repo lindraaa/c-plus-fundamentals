@@ -9,7 +9,6 @@ int main(){
 	cin >> a >> num; 
 
 	
-	
 	cout << "Characters:" << a << endl;
 	cout << "Number:" <<num;	
 
