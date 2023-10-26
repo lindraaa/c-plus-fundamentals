@@ -9,7 +9,6 @@ int main()
 	cout <<"Enter the salesperson's sales amount: ";
 	cin >> sales;
 	cout <<"\n";
-	
 	//pretest loop using sentinel value
 	while(sales > 0)
 	{ 
