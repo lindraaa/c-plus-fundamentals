@@ -20,7 +20,6 @@ int main()
 	 else 
 	cout <<"\nYou are to young to vote";   
     
-	
 	return 0;	
 
 	
