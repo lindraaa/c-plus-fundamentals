@@ -4,7 +4,6 @@ int main()
 {
 	
 	float hours, rate, gross;
-	
 	cout <<"Please enter the no. of hours worked for the week:";
 	cin >> hours;
 	
