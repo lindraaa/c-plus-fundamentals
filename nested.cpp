@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	
 	int shoot;
 	char choice;
 	
