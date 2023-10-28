@@ -14,9 +14,7 @@ int main()
    }  //end of our loop
      
 	 cout <<"\n\nbye";
-	
 
-	
 	return 0;
 
 
