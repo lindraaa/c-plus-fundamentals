@@ -13,8 +13,6 @@ int main()
 	   cout <<"\nInput another number again (1,2,3,4): ";
 	   cin >> number;
 	   
-	   
-	
 	 }
 		 if ( number>=5)
 	 while(number > 4 )
