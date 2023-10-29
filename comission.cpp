@@ -10,8 +10,7 @@ int main()
 	cout <<"This program is used to perform mathematical operation of two numbers..\n\n";
 
 	
-	do{
-		
+	do{	
 		cout <<"Enter the first number: ";
 		cin >> first;
 		cout << endl;
