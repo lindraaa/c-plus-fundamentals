@@ -15,8 +15,6 @@ int main()
 	cin >> ctypedpages;
 
 	
-
-	
 	ttypedenvelopes = ntypedenvelopes * ctypedenvelopes;
 	ttypedpages  = ntypedpages * ctypedpages;
     
