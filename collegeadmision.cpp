@@ -16,7 +16,8 @@ int main()
 		cout<<"\nAccept";
 	
 		else
-		
+
+			
 		cout<<"\nReject";
     }
 	else
