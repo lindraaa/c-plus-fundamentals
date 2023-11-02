@@ -19,8 +19,6 @@ int main()
 	{
 	  if(atestscore>=60)	
 		cout<<"\nAccept";
-
-		  
 	   else
 		  
 		
