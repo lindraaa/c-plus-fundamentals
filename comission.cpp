@@ -14,7 +14,6 @@ int main()
 		cout <<"Enter the first number: ";
 		cin >> first;
 		cout << endl;
-		
 		cout <<"Enter the second number: ";
 		cin >> second;
 		cout << endl;
