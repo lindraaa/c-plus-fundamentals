@@ -17,10 +17,6 @@ int main()
 	cout <<"\nEnter the exponent value: ";
 	cin >> exp;
 	cout <<"The answer is: " << pow(base,exp) <<endl;
-
-	
-
-	
 	return 0;
 
 }
