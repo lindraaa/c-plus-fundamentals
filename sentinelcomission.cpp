@@ -19,8 +19,6 @@ int main()
 	   cout <<"Enter the another sales[0 to exit]: ";  // update read
 	   cin >> sales; // sentinet value for the update read
 	}
-
-	
 	cout <<"\nHAVE A NICE DAY ^__^";
 	return 0;
 }
