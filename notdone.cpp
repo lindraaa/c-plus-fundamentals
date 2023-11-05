@@ -16,6 +16,4 @@ int main() //the name of the function is main
 	while(x > 0)
 		
 	return 0;
-
-	
 }
