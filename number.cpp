@@ -20,9 +20,7 @@ int main() {
             cout << "Largest number: " << n2;
         else
             cout << "Largest number: " << n3;
-    }
-
-	
+    }	
 	return 0;
 
 
