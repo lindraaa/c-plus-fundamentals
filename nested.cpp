@@ -22,7 +22,6 @@ int main()
 	  }
 	else
 	   {
-	   
 	    cout<<"\nMissed it";
        
 	   }
