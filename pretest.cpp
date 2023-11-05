@@ -15,8 +15,5 @@ int main()
      
 	 cout <<"\n\nbye";
 
-	return 0;
-
-
-	
+	return 0;	
 }
