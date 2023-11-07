@@ -13,8 +13,6 @@ int main()
 	cin >> ctypedenvelopes;
 	cout <<"Enter the amount charge per pages:" <<endl;
 	cin >> ctypedpages;
-
-
 	ttypedenvelopes = ntypedenvelopes * ctypedenvelopes;
 	ttypedpages  = ntypedpages * ctypedpages;
     
