@@ -9,6 +9,7 @@ int main()
 	cout <<"Enter the admission test score: ";
 	cin >> atestscore;
 
+	
       if(gaverage <= 0 || gaverage>= 100 )
        cout <<"ERROR";
       else if(atestscore <=0 || atestscore >=100)
