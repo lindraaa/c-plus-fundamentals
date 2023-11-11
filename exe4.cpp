@@ -52,9 +52,7 @@ int main()
   cout <<averagequiz;
   cout <<"\nFinal Grade:";
   cout <<finalgrade;
-   
 
-	
 	
 	return 0;
 }
