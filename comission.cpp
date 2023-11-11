@@ -8,8 +8,6 @@ int main()
 	char choice;
 	
 	cout <<"This program is used to perform mathematical operation of two numbers..\n\n";
-
-
 	
 	
 	do{	
