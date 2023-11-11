@@ -8,7 +8,6 @@ int main(){
 	cout <<" Enter a character and an integer:";
 	cin >> a >> num; 
 
-	
 	cout << "Characters:" << a << endl;
 	cout << "Number:" <<num;	
 
