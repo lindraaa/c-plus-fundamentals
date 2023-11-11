@@ -44,6 +44,5 @@ float add(float a, float b)//the name of the function is add() // function heade
 	float sum;
  	sum = a+b;
  	
- 
 	return sum;
 }// end of add()function body
