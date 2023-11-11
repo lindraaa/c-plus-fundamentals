@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	float sales, commission;
-	
 	cout <<"This program is used for computing a saesperson's comission. \n\n";
 	cout <<"Enter the salesperson's sales amount: ";
 	cin >> sales;
