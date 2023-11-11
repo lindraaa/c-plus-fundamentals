@@ -9,6 +9,7 @@ int main()
 	cin >> gaverage;
 	cout <<"Enter the admission test score: ";
 	cin >> atestscore;
+
 	
 	if(gaverage >= 75)
 	{
