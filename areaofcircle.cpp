@@ -5,7 +5,8 @@ int main()
   float number, areaofcircle, circumferenceofcircle;
   cout <<"Enter the number:";
   cin >>  number;
-  
+
+	
   if (number ==1)
    {
    areaofcircle = 3.14 * (number * number);
