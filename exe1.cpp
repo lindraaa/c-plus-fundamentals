@@ -11,7 +11,6 @@ int main()
 	cout<< "\nEnter the elapsed time in seconds:";
 	cin >> timeinsecs;
 
-	
 	cout<< "\nThe elapsed time you entered is ";
 	cout<<timeinhrs;
 	cout<<":" <<timeinmins;
