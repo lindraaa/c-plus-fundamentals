@@ -12,7 +12,6 @@ int main()
 	while(sales > 0)
 	{ 
 	   commission = sales * 0.12;
-		
 	   cout <<"The salesperson's commission is: " <<commission;
 	   cout << endl << endl;
 	   cout <<"Enter the another sales[0 to exit]: ";  // update read
