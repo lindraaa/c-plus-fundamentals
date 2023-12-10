@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	
   float number, areaofcircle, circumferenceofcircle;
   cout <<"Enter the number:";
   cin >>  number;
