@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-	
 	float  ntypedenvelopes, ntypedpages, ctypedenvelopes, ctypedpages, ttypedenvelopes, ttypedpages, totalamount;
 	cout << "C U S T O M E R' S  B I L L" <<endl;
 	cout <<"Enter the number of typed envelopes:" << endl;
