@@ -2,6 +2,7 @@
 using namespace std;
 //ask a user input using cin function
 int main(){
+	
 	char a;
 	int num;	
 	
