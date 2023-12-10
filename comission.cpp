@@ -17,8 +17,6 @@ int main()
 		cout <<"Enter the second number: ";
 		cin >> second;
 		cout << endl;
-
-		
 		cout <<"\nPlease select the number for the desired operation: \n";
 		cout <<"1 - for addition \n";
 		cout <<"2 - for subtraction \n";
