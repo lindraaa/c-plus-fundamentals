@@ -10,7 +10,6 @@ int main()
   
   cout<<"Enter the full name of student:";
   getline(cin, str1);
-  
   cout <<"\nEnter the Prelim exam score:";
   cin >> prelim;
   cout <<"\nEnter the Midterm exam score:";
