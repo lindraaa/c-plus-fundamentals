@@ -17,7 +17,6 @@ int main() //The name of its function is main
  	ans1 = add(50,200); //function call or calling a function(using its name)
  	cout <<"The sum of the two nos. is: " << ans1 <<endl;
 	cout << endl;
-	
 	cout <<"Running the add() function 5x using the while loop\n";
 	while(x > 0)
 	{
