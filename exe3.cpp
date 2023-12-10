@@ -16,8 +16,6 @@ int main()
 	
 	pr = first * second * third;
 	cout <<"\nProduct is "<< pr;
-
- 
    if( first < second && first < third)
    cout <<"\nSmallest is " << first;
    
