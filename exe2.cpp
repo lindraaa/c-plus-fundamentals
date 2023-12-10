@@ -12,7 +12,8 @@ int main()
     cout <<"\nEnter the 8 numbers:" <<endl;
     cout <<"\nThe 8 numbers are : ";
     cin >> firstnum >> secnum >> thirdnum >> fourthnum >> fifthnum >> sixnum >> seventhnum >> eightnum;
-   
+
+	
     sumoffournumbers = firstnum + thirdnum + fifthnum + eightnum;
     productoftwonumbers = fourthnum * fifthnum;
     totalall = firstnum + secnum + thirdnum + fourthnum + fifthnum + sixnum + seventhnum + eightnum;
