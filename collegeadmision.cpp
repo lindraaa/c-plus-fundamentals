@@ -8,9 +8,7 @@ int main()
 	cout <<"Enter the general point average: ";
 	cin >> gaverage;
 	cout <<"Enter the admission test score: ";
-	cin >> atestscore;
-
-	
+	cin >> atestscore;	
 	if(gaverage >= 75)
 	{
 		if(atestscore>=60)	
